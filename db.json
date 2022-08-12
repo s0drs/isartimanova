@@ -1,6 +1,54 @@
 {
-  "lessons": [],
-  "groups": [],
+  "lessons": [
+    {
+      "subject": "Английский",
+      "group" 1
+    },
+    {
+      "subject": "Английский",
+      "group" 2
+    }
+  ],
+  "groups": [
+    {
+      "name": "Группа",
+      "students": [
+        {
+          "first_name": "Ангелина", 
+          "surname": "Артиманова",
+          "patronymic": "Витальевна",
+          "subjects": [
+            {
+              "name": "Английский",
+              "grade": 5
+            },
+            {
+              "name": "Информатика",
+              "grade": 8
+            }
+          ]
+        },
+        {
+          "first_name": "Сергей", 
+          "surname": "Лопатин",
+          "patronymic": "Витальевна",
+          "subjects": [
+            {
+              "name": "Английский",
+              "grade": 5
+            },
+            {
+              "name": "Информатика",
+              "grade": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Группа 2"
+    },
+  ],
   "users": [
     {
       "username": "artimanova",
